@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/QjPvVwG/github-banner.gif" alt="Rakib Hassan Banner" width="100%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner" width="100%" />
 </p>
 
-<!-- Animated Typing Intro -->
+<!-- Typing Animation Intro -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Rakib+Hassan;💻+Full-Stack+Developer;🚀+Open+Source+Contributor;⚡+Tech+Explorer" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 - 👀 **I’m a programmer out of my box** — always curious about how things work under the hood.
 - 🌱 Currently learning **AI-powered development**, **Web3 integration**, and **scalable cloud systems**.
 - 💞️ Looking to collaborate on **innovative open-source projects** that push boundaries.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/your-profile)** | **[Email](mailto:your@email.com)** | **[Portfolio](https://your-portfolio.com)**
+- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/your-profile)** | **[Email](mailto:your@email.com)** | **[Portfolio](https://your-portfolio.com)**
 - 😄 Pronouns: *He/Him*
 - ⚡ Fun fact: I can debug faster with coffee ☕ than without.
 
@@ -40,25 +40,49 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib2062&theme=tokyonight" height="165" />
 </p>
 
+### 📈 Contribution & Activity Graphs
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib2062&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib2062&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakib2062&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/3d-contrib-profile.gif" alt="3D Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=rakib2062&data=followers,repositories,stars,commits&theme=nautilus" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 **Genie the AI Care**
+### 🔹 Genie the AI Care
 > AI-powered women's health platform providing health suggestions, doctor appointments, and reminders.  
-🔗 [Repo Link](https://github.com/your-repo) | 🌐 [Live Demo](https://your-live-link.com)  
-<img src="https://i.ibb.co/2dQk0hb/genie-ai-care.png" width="100%" alt="Genie AI Care" />
+**Tech:** Python, Flask, TensorFlow, Bootstrap  
+**Highlights:** AI-driven suggestions + clean UX  
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/health_app.png" width="100%" alt="Genie AI Care" />
 
 ---
 
-### 🔹 **ONLINE BILL PAYMENT WEB APP**
+### 🔹 Online Bill Payment Web App
 > A secure bill payment system built with **ASP.NET Core** and **MySQL**, featuring custom middleware, transaction handling, and PDF generation.  
-🔗 [Repo Link](https://github.com/your-repo)  
-<img src="https://i.ibb.co/3Yw6F2V/online-bill.png" width="100%" alt="Online Bill Payment" />
+**Tech:** C#, ASP.NET Core, EF Core, MySQL  
+**Highlights:** Real-time validation, PDF invoices, seamless UX  
+<img src="https://cdn.dribbble.com/users/25514/screenshots/1658989/billing_dashboard.png" width="100%" alt="Online Bill Payment" />
+
+---
+
+### 🔹 Modular Laravel API with JWT
+> Laravel-based modular API architecture with JWT authentication, enabling feature toggling via config.  
+**Tech:** Laravel, PHP, MySQL, JWT, Docker  
+**Highlights:** Scalable modular design + authentication layer  
+<img src="https://cdn.dribbble.com/users/107759/screenshots/5156026/api_dashboard.png" width="100%" alt="Laravel API Project" />
 
 ---
 
@@ -73,15 +97,7 @@
 
 ---
 
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakib2062&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rakib2062/rakib2062/output/github-contribution-grid-snake.svg" />
@@ -92,8 +108,3 @@
 <p align="center">
   <i>💬 Let's create something amazing together!</i>
 </p>
-
-<!---
-rakib2062/rakib2062 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
