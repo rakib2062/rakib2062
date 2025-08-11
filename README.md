@@ -1,13 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner" width="100%" />
+  <img src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <!-- Typing Animation Intro -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Rakib+Hassan;💻+Full-Stack+Developer;🚀+Open+Source+Contributor;⚡+Tech+Explorer" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0F1FF&width=435&lines=Hi!+I'm+Md+Rakib+Hassan.++" alt="Typing SVG" /></a>
 </h1>
 
 ---
@@ -66,7 +64,7 @@
 > AI-powered women's health platform providing health suggestions, doctor appointments, and reminders.  
 **Tech:** Python, Flask, TensorFlow, Bootstrap  
 **Highlights:** AI-driven suggestions + clean UX  
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/health_app.png" width="100%" alt="Genie AI Care" />
+<img src="https://img.freepik.com/free-vector/digital-marketing-team-constructing-landing-home-page-tiny-people-painting-units-webpage-illustration-website-designers-content-managers-internet-promotion-concept-landing-page_74855-17962.jpg?t=st=1754882665~exp=1754886265~hmac=74823e9a6e8acb96dbf4ebfb94036cfcad7a7e8596ac65db8ee475023e18983f&w=1480" width="100%" alt="Genie AI Care" />
 
 ---
 
@@ -74,7 +72,7 @@
 > A secure bill payment system built with **ASP.NET Core** and **MySQL**, featuring custom middleware, transaction handling, and PDF generation.  
 **Tech:** C#, ASP.NET Core, EF Core, MySQL  
 **Highlights:** Real-time validation, PDF invoices, seamless UX  
-<img src="https://cdn.dribbble.com/users/25514/screenshots/1658989/billing_dashboard.png" width="100%" alt="Online Bill Payment" />
+<img src="https://img.freepik.com/free-vector/digital-marketing-team-constructing-landing-home-page-tiny-people-painting-units-webpage-illustration-website-designers-content-managers-internet-promotion-concept-landing-page_74855-17962.jpg?t=st=1754882665~exp=1754886265~hmac=74823e9a6e8acb96dbf4ebfb94036cfcad7a7e8596ac65db8ee475023e18983f&w=1480" width="100%" alt="Online Bill Payment" />
 
 ---
 
@@ -82,7 +80,7 @@
 > Laravel-based modular API architecture with JWT authentication, enabling feature toggling via config.  
 **Tech:** Laravel, PHP, MySQL, JWT, Docker  
 **Highlights:** Scalable modular design + authentication layer  
-<img src="https://cdn.dribbble.com/users/107759/screenshots/5156026/api_dashboard.png" width="100%" alt="Laravel API Project" />
+<img src="https://img.freepik.com/free-vector/digital-marketing-team-constructing-landing-home-page-tiny-people-painting-units-webpage-illustration-website-designers-content-managers-internet-promotion-concept-landing-page_74855-17962.jpg?t=st=1754882665~exp=1754886265~hmac=74823e9a6e8acb96dbf4ebfb94036cfcad7a7e8596ac65db8ee475023e18983f&w=1480" width="100%" alt="Laravel API Project" />
 
 ---
 
